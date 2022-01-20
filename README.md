@@ -21,7 +21,8 @@
 <img width="962" alt="스크린샷 2022-01-20 오후 5 22 44" src="https://user-images.githubusercontent.com/64346003/150340611-72144b24-726d-46b0-9958-13f0b8ac90e4.png">
 
 ## Presentation
-https://user-images.githubusercontent.com/64346003/150343186-11e3a1c4-c057-4205-af2d-fd6fd5a3b30d.mov
+![Hnet-image (3)](https://user-images.githubusercontent.com/64346003/150349381-db53b797-67f6-4abd-b69e-501f77519b6c.gif)
+
 
 
 
