@@ -29,8 +29,9 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 ## +Distribution and testing of testnet contracts
 1. Reset the Metamask account and get Ether
  - Account 1 : Owner
+<img width="1360" alt="스크린샷 2022-01-23 오후 4 03 45" src="https://user-images.githubusercontent.com/64346003/150668283-42e8b353-b438-4c3f-a8ce-e72469b137fd.png">
  - Account 2 : Customer
-
+<img width="1359" alt="스크린샷 2022-01-23 오후 4 03 54" src="https://user-images.githubusercontent.com/64346003/150668301-8e893cb6-aec3-47f2-9cbf-74add435aed6.png">
 
 
 
