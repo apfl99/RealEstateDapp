@@ -26,13 +26,25 @@
 ## Reference
 https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp/dashboard
 
-## +Distribution and testing of testnet contracts
+## + Distribution and testing of testnet contracts using remix.
 1. Reset the Metamask account and get Ether
   - Account 1 : Owner
 <img width="1360" alt="스크린샷 2022-01-23 오후 4 03 45" src="https://user-images.githubusercontent.com/64346003/150668283-42e8b353-b438-4c3f-a8ce-e72469b137fd.png">
 
   - Account 2 : Customer
 <img width="1359" alt="스크린샷 2022-01-23 오후 4 03 54" src="https://user-images.githubusercontent.com/64346003/150668301-8e893cb6-aec3-47f2-9cbf-74add435aed6.png">
+
+2. Compilation and distribution using remix
+<img width="1440" alt="스크린샷 2022-01-23 오후 4 28 22" src="https://user-images.githubusercontent.com/64346003/150668868-ff3cd294-fb69-4a59-bbdb-11ca38656ebf.png">
+
+<img width="1226" alt="스크린샷 2022-01-23 오후 4 30 56" src="https://user-images.githubusercontent.com/64346003/150668887-c187a0cc-b668-4767-813c-f998241ec695.png">
+
+3. Network Setting(RealEstate.json)
+<img width="1282" alt="스크린샷 2022-01-23 오후 4 40 35" src="https://user-images.githubusercontent.com/64346003/150669188-b76f08bf-83e8-4c06-ae70-6bd143857d3b.png">
+
+<img width="679" alt="스크린샷 2022-01-23 오후 4 34 31" src="https://user-images.githubusercontent.com/64346003/150669196-fc01ffbe-8ee9-4309-9b46-5d13194d844d.png">
+
+4. Presentation
 
 
 
