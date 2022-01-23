@@ -35,5 +35,3 @@ https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-
 
 
 
-
-
