@@ -26,6 +26,10 @@
 ## Reference
 https://www.inflearn.com/course/blockchain-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-dapp/dashboard
 
+## +Distribution and testing of testnet contracts
+1. Reset the Metamask account and get Ether
+ - Account 1 : Owner
+ - Account 2 : Customer
 
 
 
