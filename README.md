@@ -5,10 +5,12 @@
 #Dapp
 
 ## Development Environment
-* Solidity v0.4.23
+* Solidity v0.4.25
 * Truffle v4.1.15
 * MetaMask 10.8.1
 * Ganache v1.1.0
+* Node.js v10.9.0
+* Npm 6.2.0
 
 ## Execution
 1. Open Terminal
